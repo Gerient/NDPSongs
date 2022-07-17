@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NDP Songs</string>
+    <string name="song_title">Song Title</string>
+    <string name="hint_song">Enter song title here</string>
+    <string name="singers">Singers</string>
+    <string name="enter_singer_s_name_here">Enter singer\'s name here</string>
+    <string name="year">Year</string>
+    <string name="hint_year">Enter year of release here</string>
+    <string name="insert">Insert</string>
+    <string name="show_list">Show List</string>
+    <string name="show_5_stars">Show all songs with 5 stars</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+</resources>
